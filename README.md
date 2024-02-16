@@ -93,6 +93,5 @@ There is a requirements.txt that contains the information of the libraries used 
 
 There is a .gitignore that allows to exclude files that are of no interest.
 
-There is a results_data folder that contains the filtered dataset from all the analysis. This final dataset is used in Tableau to carry out results representations. 
+There is a results_pdf_files folder that contains the resultant final presentation and the notebook where the analysis was carried out in pdf format.  
 
-There is a branch named feature/phase1 to work in the project and I have done a pull request to **develop**. This is the branch that contains all the updated information.
