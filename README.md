@@ -4,7 +4,7 @@
 
 ## Description
 
-This is a project that studies the success of movies from a group of datasets. The reason of this project is to finish the second phase of the FlatIron Data Science bootcamp. It was required to carry out an investigation of zippedData containing datasets to come up with 3 business recommendations for investments that the head of a company's new movie studio can use to help decide what type of films to create.
+This is a project that studies the success of movies from a group of datasets. The reason of this project is to finish the second phase of the FlatIron Data Science bootcamp. It was required to carry out an investigation of the folder data containing datasets to come up with 3 business recommendations for investments that the head of a company's new movie studio can use to help decide what type of films to create.
 
 *Your company now sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of your company's new movie studio can use to help decide what type of films to create.*
 
@@ -25,7 +25,7 @@ These are steps followed in order to perform the aircraft analysis:
 
 ## Sources
 
-The dataset is comprised in a zippedData folder that contains datasets from:
+The dataset is comprised in a data folder that contains datasets from:
 - Box Office Mojo
 - IMDB
 - Rotten Tomatoes
