@@ -71,11 +71,7 @@ My name is Miguel Barriola Arranz. I am an Industrial Engineer and a Duke gradua
 I am currently working in the microchip industry and further expanding my skillset in data science. 
 
 - LinkedIn: https://www.linkedin.com/in/miguel-barriola-arranz/
-
-## Presentation
-
-Please find here the link to the project presentation: 
-- Tableau: https://public.tableau.com/app/profile/miguel.barriola.arranz/viz/Aircraft_Safety_Analysis_Representation/Dashboard1?publish=yes
+- Medium: https://medium.com/@mbarriolaarranz
 
 ## Technologies
 
