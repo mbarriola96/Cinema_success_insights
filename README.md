@@ -14,15 +14,6 @@ In order to arrive to solid business recommendations for our new film studio's p
 - 2. Second Question: What is the relationship between a movie's run-time and its ROI and production costs?
 - 3. Third Question: How does a director's involvement correlate with a movie's ROI and production costs?
 
-## Methodology
-
-These are steps followed in order to perform the aircraft analysis:
-- 1. Descriptive Statistics
-- 2. First Question
-- 3. Second Question
-- 4. Third Question
-- 5. Results
-
 ## Sources
 
 The dataset is comprised in a data folder that contains datasets from:
@@ -36,6 +27,14 @@ Some of the datasets are CSV, others are TSV and IMDB is located in a SQLite dat
 
 ![movie data erd](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-2-project-v3/main/movie_data_erd.jpeg)
 
+## Methodology
+
+These are steps followed in order to perform the aircraft analysis:
+- 1. Descriptive Statistics
+- 2. First Question
+- 3. Second Question
+- 4. Third Question
+- 5. Results
 
 ## Conclusion
 
